@@ -1,4 +1,1 @@
-dot-files
-=========
-
-My dot files
+My standard configuration
