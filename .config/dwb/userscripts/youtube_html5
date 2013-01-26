@@ -1,6 +1,0 @@
-#!javascript
-
-extensions.load("youtube_html5", {
-	defaultQuality : "720p",
-	autoplay       : false
-	});
