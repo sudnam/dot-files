@@ -1,5 +1,20 @@
 [user]
 	name = Mandus Elfving
 	email = mandus.elfving@gnifin.com
+
 [color]
-	ui = true
+  ui          = auto
+  branch      = auto
+  diff        = auto
+  interactive = auto
+  status      = auto
+
+[alias]
+  st = status
+  ci = commit
+  co = checkout
+  br = branch
+  sm = submodule
+
+[push]
+  default = tracking
